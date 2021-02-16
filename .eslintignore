@@ -1,0 +1,6 @@
+# pre-commit runs from root repo dir,
+# so also include a copy of each line prefixed with frontend/
+src/helpers/registerServiceWorker.js
+frontend/src/helpers/registerServiceWorker.js
+flow-typed/*
+frontend/flow-typed/*
